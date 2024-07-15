@@ -11,7 +11,7 @@
 Function = {}
 Function.Prefix = "^4[AJ:DV]^0"
 Function.ResourceName = "AJ_DV"
-Function.Version = "1.0.0"
+Function.Version = "1.0.1"
 
 -- Debug Mode --
 
